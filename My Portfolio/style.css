@@ -1,0 +1,57 @@
+.h1{
+    margin-left: 100px;
+    position:relative; left:550px; top:2px;
+}
+.main{
+    border-top: 20px solid white;
+}
+
+.web{
+    font-size: 40px;
+}
+.photo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    border-top: 50px solid yellow;
+}
+.photo-container-about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    border-top: 0px solid white;
+}
+
+
+.move-right {
+    left: 50%;
+    transform: translateX(-50%);
+}
+.custom-box {
+    width: 550px;
+    height: 200px;
+    background-color: hsl(204, 70%, 53%);
+    border: 2px solid rgb(0, 73, 77);
+   
+}
+.intro {
+    margin-top: 20px ;
+    text-align: center;
+    font-size: 70;
+    
+}
+
+.name {
+    margin-bottom: 5px;
+}
+.contact{
+    text-align: center;
+}
+
+.description {
+    margin-top: 5px;
+}
